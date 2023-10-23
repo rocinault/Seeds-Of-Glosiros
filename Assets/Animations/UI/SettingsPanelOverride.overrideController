@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: SettingsPanelOverride
+  m_Controller: {fileID: 9100000, guid: e1351aa41d4b594429c82d446431eccb, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: d8e555e789aff7c40b88d058c26d3f94, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a3ee5501cb0c86e4bb44c4522081db69, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 48babd77a05d49d42aa8526f70efd8b5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7865dbb6a6b2d044297ef07efc5b078a, type: 2}
